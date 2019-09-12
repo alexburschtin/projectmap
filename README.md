@@ -1,4 +1,6 @@
 nyc_restaurants
+
+
 Mina Bansal, Alex Burschtin, Mayobanex Martinez, Denise Person 
 
 Proposal: A dynamic dashboard of NYC for people to find great bars and restaurants
